@@ -1,5 +1,7 @@
+
+
 h1{
-    width: 100%;
+    width: 80%;
     background-color:rgb(117, 160, 253);
     text-align: center;
     margin-left: auto;
@@ -8,6 +10,7 @@ h1{
 }
  #pessoal{
     text-align: center;
+    
  }
 
 .objetivo{
@@ -16,7 +19,16 @@ h1{
     padding-top: 10px;
     border-bottom: 2px solid  #2e72cc;
     color: #082750;
-    width: 100%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto
+    
+}
+
+#habilidade{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .Experiencia{
@@ -25,7 +37,9 @@ h1{
     padding-bottom: 10px;
     border-bottom: 2px solid #2e72cc;
     color: #082750;
-    width: 100%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .formacao{
@@ -45,6 +59,24 @@ h1{
     width: 100%;
     border-bottom: 2px solid #2e72cc;
     color: #082750;
+}
+
+#texto{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.formacao{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.curso{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
