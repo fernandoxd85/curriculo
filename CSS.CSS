@@ -1,0 +1,51 @@
+h1{
+    width: 100%;
+    background-color:rgb(117, 160, 253);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+ #pessoal{
+    text-align: center;
+ }
+
+.objetivo{
+    background-color: #ccc;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 2px solid  #2e72cc;
+    color: #082750;
+    width: 100%;
+}
+
+.Experiencia{
+    background-color: #ccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #2e72cc;
+    color: #082750;
+    width: 100%;
+}
+
+.formacao{
+    background-color: #ccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    border-bottom: 2px solid #2e72cc;
+    color: #082750;
+
+}
+
+.curso{
+    background-color: #ccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    border-bottom: 2px solid #2e72cc;
+    color: #082750;
+}
+
+
+
